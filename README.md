@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩸 HemoSync — Blood Bank Management System (MERN Stack)
 
 A high-performance, centralized web portal and cold-chain inventory management platform designed for voluntary blood donors, transfusion medicine specialists, hospitals, and blood bank administrators. Built using **MongoDB**, **Express.js**, **React (Vite + Tailwind CSS)**, and **Node.js**.
@@ -205,3 +206,7 @@ npm run dev
 - `POST /api/camps` - Publish new camp
 - `GET /api/analytics/dashboard` - High-level metrics & critical shortages
 - `POST /api/analytics/check-compatibility` - Crossmatch verification logic
+=======
+# Bloodbank
+Blood
+>>>>>>> e13c9b9a6546a754f7b7bca86161b033dc94534d
